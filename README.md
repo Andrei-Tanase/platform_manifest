@@ -1,4 +1,4 @@
-[Android Open Kang Project](http://aokp.co)
+[Android Open Source Dark Project]
 ====================================
 
 ![Photo](https://web.telegram.org/f86e3e85-f931-4379-aa7b-8d1e446a5760)
