@@ -1,7 +1,7 @@
 [Android Open Source Dark Project]
 ====================================
 
-![Photo](https://imgur.com/R0QIBwZ)
+![Photo](<a href="https://imgur.com/R0QIBwZ"><img src="https://i.imgur.com/R0QIBwZ.jpg" title="source: imgur.com" /></a>)
 
 Download the Source
 ===================
